@@ -1,6 +1,6 @@
 # henri-archetype
 
-An improvement from the default maven-archetype-quickstart that is slowing getting old.
+An improvement over the default maven-archetype-quickstart that is slowly getting old.
 
 The improvements are:
 * Default is Java 8
@@ -15,6 +15,6 @@ Just install locally
 
 `mvn install`
 
-and the select it when generating a project
+and then select it when generating a project
 
 `mvn archetype:generate -Dfilter=henri=archetype`
