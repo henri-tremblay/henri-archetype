@@ -16,7 +16,7 @@
       </includes>
     </fileSet>
     <fileSet encoding="UTF-8">
-      <directory></directory>
+      <directory/>
       <includes>
         <include>.gitignore</include>
       </includes>
