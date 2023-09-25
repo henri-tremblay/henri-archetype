@@ -4,7 +4,7 @@
 
   <groupId>pro.tremblay</groupId>
   <artifactId>henri-archetype</artifactId>
-  <version>3.0</version>
+  <version>4.0</version>
   <packaging>maven-archetype</packaging>
 
   <name>henri-archetype</name>
@@ -47,7 +47,7 @@
         </plugin>
         <plugin>
           <artifactId>maven-site-plugin</artifactId>
-          <version>4.0.0-M8</version>
+          <version>4.0.0-M9</version>
         </plugin>
       </plugins>
     </pluginManagement>
@@ -56,7 +56,7 @@
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-enforcer-plugin</artifactId>
-        <version>3.3.0</version>
+        <version>3.4.1</version>
         <executions>
           <execution>
             <id>enforce-versions</id>
