@@ -3,11 +3,11 @@
 An improvement over the default maven-archetype-quickstart that is slowly getting old.
 
 The improvements are:
-* Default is Java 11
+* Default is Java 21
 * JUnit 5
 * AssertJ added
 
-So nothing wild but I was tired of modifying the quickstart all the time.
+So nothing wild, but I was tired of modifying the quickstart all the time.
 
 ## To use
  
